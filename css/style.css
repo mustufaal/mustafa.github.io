@@ -939,3 +939,6 @@ span {
 img {
     border-radius: 20px;
 }
+div#darkMode-icon {
+    display: none;
+}
